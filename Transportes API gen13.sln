@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35506.116 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transportes API gen13", "Transportes API gen13.csproj", "{DF92B24C-D4A6-4E47-9CEA-8E133BCF08E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{1EF51DFF-67F7-4D0E-A439-7850BD312188}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DF92B24C-D4A6-4E47-9CEA-8E133BCF08E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF92B24C-D4A6-4E47-9CEA-8E133BCF08E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF92B24C-D4A6-4E47-9CEA-8E133BCF08E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF51DFF-67F7-4D0E-A439-7850BD312188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF51DFF-67F7-4D0E-A439-7850BD312188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF51DFF-67F7-4D0E-A439-7850BD312188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF51DFF-67F7-4D0E-A439-7850BD312188}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
